@@ -12,3 +12,5 @@ Blogs to be read later
   * Solving issues related to - **Scalibility**, **Flexibility** (Unlike Ethereum's DAO) - only the block producers will freeze the dApp. Every node not required.
     , **Usability** (for devs. like web toolkit definements for interface dev, self-describing interfaces, etc), 
     
+* https://www.thoughtworks.com/insights/blog/nosql-databases-overview
+* https://stackoverflow.com/questions/1108/how-does-database-indexing-work
