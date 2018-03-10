@@ -14,3 +14,4 @@ Blogs to be read later
     
 * https://www.thoughtworks.com/insights/blog/nosql-databases-overview
 * https://stackoverflow.com/questions/1108/how-does-database-indexing-work
+* https://www.webtoolkit.eu/wt
