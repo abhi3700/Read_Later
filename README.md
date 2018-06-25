@@ -16,3 +16,6 @@ Blogs to be read later
 * https://stackoverflow.com/questions/1108/how-does-database-indexing-work
 * https://neo4j.com/developer/graph-db-vs-rdbms/
 * https://www.webtoolkit.eu/wt
+* C++ vectors - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm
+* C++ allocators - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4079/Allocators-STL.htm
+* C++ Function Objects - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c11449/Function-Objects-STL.htm
