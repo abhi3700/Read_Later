@@ -20,3 +20,4 @@ Blogs to be read later
 * C++ allocators - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4079/Allocators-STL.htm
 * C++ Function Objects - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c11449/Function-Objects-STL.htm
 * https://medium.com/iryo-network/eos-ram-hijack-and-its-mitigation-949edea2a3d8
+* https://blog.springrole.com/the-mechanics-behind-eosio-ram-allocation-940204bc5b7e
