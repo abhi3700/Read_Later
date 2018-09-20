@@ -19,3 +19,4 @@ Blogs to be read later
 * C++ vectors - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm
 * C++ allocators - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4079/Allocators-STL.htm
 * C++ Function Objects - https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c11449/Function-Objects-STL.htm
+* https://medium.com/iryo-network/eos-ram-hijack-and-its-mitigation-949edea2a3d8
